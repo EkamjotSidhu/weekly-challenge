@@ -18,8 +18,10 @@ Additionally added icon to the web title and added the navigation to top of the 
 ## Usage
 To use this module click following link : https://ekamjotsidhu.github.io/weekly-challenge/
 The screenshot below shows the final webpage
+
 ![alt text](assets/images/screenshot.png)
-##Credits
+
+## Credits
 N/A
-##License
+## License
 N/A
